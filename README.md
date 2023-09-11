@@ -9,11 +9,11 @@ Portfólio de projetos apresentado como requisito avaliativo para a disciplina d
 </p>
 
 <p align='justify'>
-Meu nome é Rodrigo Diniz Goulart e atualmente estou no 5° semestre do curso de Análise de Desenvolvimento de Sistemas na FATEC de São José dos Campos, SP. Minha jornada acadêmica tem sido marcada por uma paixão pela tecnologia e pelas artes gráficas. Tenho experiência como Designer Gráfico e estou empenhado em desenvolver minhas habilidades como desenvolvedor front-end, com conhecimentos em tecnologias como React, React Native, Sass, Node.js, Flask e Django. Além disso, sou versátil, dominando ferramentas de design como Photoshop, Illustrator e Figma.
+Estagiário da <a href='https://www.linkedin.com/company/imagem-geo/'>Imagem Geosistemas</a> e estudante no 5° período do curso de Análise de Desenvolvimento de Sistemas na <a href='https://www.linkedin.com/school/fatecjessenvidal/'>FATEC de São José dos Campos, SP.</a> Minha jornada acadêmica tem sido marcada por uma paixão pela tecnologia e pelas artes gráficas. Iniciei minhas experiências primeiro como Designer Gráfico desenvolvendo melhores habilidades com artes gráficas e no desenvolvimento UI/UX. Atualmente atuo como desenvolvedor, possuindo experiências especialmente em front-end, tendo maior destaque usando frameworks como <a href='https://react.dev/'>React</a> e <a href='https://reactnative.dev/'>React Native</a>, além de boas práticas de responsividade e acessibilidade em sites juntamente com um bom planejamento, usando ferramentas como <a href='https://www.figma.com/'>Figma</a> para construção de interfaces. Como programador, também possuo conhecimento e experiência com tecnologias back-end em JavaScript/Typescript como <a href='https://expressjs.com/pt-br/'>NodeJs/ExpressJs</a> aliado com <a href='https://typeorm.io/'>TypeORM</a> e em Pyhon com <a href='https://flask.palletsprojects.com/en/2.3.x/'>Flask</a> e <a href='https://www.djangoproject.com/'>Django</a>, além da integração de banco de dados tanto relacionais, como <a href='https://www.mysql.com/'>MySQL</a> e <a href='https://www.postgresql.org/'>PostgreSQL</a>, quanto não relacionais, como <a href='https://www.mongodb.com/pt-br'>MongoDB</a>, juntamente com técnicas e boas práticas no desenvolvimento de APIs (Application Programming Interface).
 </p>
 
 <p align='justify'>
-Minha trajetória profissional ganhou impulso recentemente quando ingressei como estagiário Desenvolvedor na Imagem Geosistemas em setembro de 2022. Essa oportunidade me permite aplicar minhas habilidades em um ambiente de trabalho prático, onde posso criar interfaces atraentes e funcionais. Minha capacidade de unir conhecimentos técnicos e visão de design me diferencia e estou ansioso para continuar crescendo e contribuindo no mundo do desenvolvimento e design.
+Minha trajetória profissional ganhou impulso quando ingressei como estagiário Desenvolvedor na Imagem Geosistemas em Setembro de 2022. Essa oportunidade me permitiu aplicar minhas habilidades em um ambiente de trabalho prático, além de ter a oportunidade de conhecer, estudar e desenvolver em uma área de conhecimento nova em minha carreria: Tecnologia GIS, unificando aprendizados em aplicações web e conceitos GIS. Minha capacidade de unir conhecimentos técnicos e visão de design me diferencia e estou ansioso para continuar crescendo e contribuindo no mundo do desenvolvimento e design.
 </p>
 <p align='center'>
 <a href='https://www.linkedin.com/in/rodrigo-diniz-goulart/'>LinkedIn</a> / <a href='https://github.com/RodrigoDGoulart'>GitHub</a>
@@ -41,7 +41,7 @@ Para a parte de organização e centralização dos projetos, foi feito uma inte
 </p>
 
 ### Tecnologias utilizadas
-- Webscrapping para automatizar processos <br />
+- Scraping para a automatização dos processos <br />
 <p>
 <img src='https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue' />
 <img src='https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=whit' />
