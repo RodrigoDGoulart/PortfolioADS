@@ -104,7 +104,7 @@ Para a parte de organização e centralização dos projetos, foi feito uma inte
   <br>
   <table align='center'>
     <tr>
-      <th width='300px'>Tecnologia/Metodologia</th>
+      <th width='300px'>Habilidade</th>
       <th width='300px'>Domínio</th>
     </tr>
     <tr>
@@ -122,6 +122,103 @@ Para a parte de organização e centralização dos projetos, foi feito uma inte
     <tr>
       <td>Organização/Planejamento</td>
       <td>★★☆☆☆</td>
+    </tr>
+  </table>
+</details>
+
+### Pro4System
+#### 2° Semestre - 1/2022
+Parceiro acadêmico: <a href='https://www.linkedin.com/company/pro4tech/'>Pro4Tech</a>
+![pro4system](https://github.com/RodrigoDGoulart/PortfolioADS/assets/90328897/86dc0865-9262-41b0-b5e3-df9ed8999561)
+
+<p align='justify'>
+<a href='https://github.com/meta-build/Pro4System/'>Pro4System</a> foi um sistema desktop com a funcionalidade de gerenciamento de projetos, clientes e funcionários de uma empresa de tecnologia. A empresa apresentou o problema da comunicação entre funcionário e clientes e o gerenciamento de projetos em andamento.
+</p>
+<p align='justify'>
+Dado a dor do cliente, o sistema possui o objetivo de melhorar a comunicação entre funcionário x cliente, além de apresentar uma interface que facilite a organização dos projetos e o andamento de suas atividades.
+</p>
+
+### Prévia da Solução
+<p align='justify'>
+Focando no problema de gerenciamento de projetos, foi montado um sistema desktop com interface e funcionamento em Java, apresentando os projetos, pedidos dos clientes e gerenciamento de funcionários. Para o armazenamento desses dados, foi usado o banco de dados MySQL. 
+</p>
+<p align='justify'>
+Além do sistema de pedidos de cliente, também foi implementado um sistema de chat. Nesse caso, foi necessário implementar um servidor à parte, em NodeJs + SocketIO, conseguindo implementar um sistema de chat ao vivo, além de ser possível visualizar se o usuário entrou no sistema ou não.
+</p>
+
+### Tecnologias utilizadas
+- Interface e armazenamento de dados <br />
+<p>
+<img src='https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)' />
+<img src='https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)' />
+</p>
+
+- Servidor online para sistema de chat <br />
+<p>
+<img src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)' />
+<img src='https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)' />
+</p>
+
+### Contribuições Pessoais
+<p align='justify'>
+  Ao longo da API, desempenhei um papel multifacetado e essencial, abrangendo tanto a interface quanto a integração com o banco de dados, ao mesmo tempo em que fornecia suporte aos colegas no entendimento do projeto e na programação do sistema. Além disso, contribuí significativamente desenvolvendo o servidor para o sistema de chat, assegurando uma comunicação efetiva entre cliente x funcionário. 
+</p>
+
+### Lições Aprendidas
+<p align='justify'>
+  Na finalização do projeto, foi adquirido uma série de habilidades e experiências valiosas. Aprimorei significativamente minha capacidade de comunicação com a equipe, aprendi a tomar iniciativa de forma proativa durante o desenvolvimento e desenvolvi empatia ao compartilhar conhecimento com meus colegas. Além disso, do ponto de vista técnico, esse projeto marcou meu primeiro contato com programação orientada a objetos, proporcionando uma base sólida em conceitos cruciais, como herança, polimorfismo e muito mais. Essa experiência ampliou minha bagagem profissional e me preparou para enfrentar desafios futuros com confiança e conhecimento.
+</p>
+
+<details>
+  <summary><h3>Hard Skills</h3></summary>
+  <br>
+  <table align='center'>
+    <tr>
+      <th width='300px'>Tecnologia/Metodologia</th>
+      <th width='300px'>Domínio</th>
+    </tr>
+    <tr>
+      <td>Java</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>MySQL</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>NodeJs/SocketIO</td>
+      <td>★★☆☆☆</td>
+    </tr>
+    <tr>
+      <td>UX/UI</td>
+      <td>★★★☆☆</td>
+    </tr>
+  </table>
+</details>
+
+<details>
+  <summary><h3>Soft Skills</h3></summary>
+  <br>
+  <table align='center'>
+    <tr>
+      <th width='300px'>Habilidades</th>
+      <th width='300px'>Domínio</th>
+    </tr>
+    <tr>
+      <td>Proatividade</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Trabalho em equipe</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Comunicação</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Empatia/Ensino</td>
+      <td>★★★☆☆</td>
     </tr>
   </table>
 </details>
