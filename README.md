@@ -222,3 +222,96 @@ Além do sistema de pedidos de cliente, também foi implementado um sistema de c
     </tr>
   </table>
 </details>
+
+### Embraer - Operational Landing Distance
+#### 3° Semestre - 2/2022
+Parceiro acadêmico: <a href='https://www.linkedin.com/company/embraer/'>Embraer</a>
+![embraer](https://github.com/RodrigoDGoulart/PortfolioADS/assets/90328897/eea3fa51-6531-4aa2-a4d7-c1ef6924f131)
+
+<p align='justify'>
+<a href='https://github.com/meta-build/Projeto-Embraer'>Embraer Operational Landing Distance</a> foi uma aplicação web desenvolvida em resposta à necessidade crítica na aviação. A empresa identificou a dificuldade enfrentada pelos pilotos ao realizar cálculos complexos de distância de pouso em diferentes cenários de voo. Para simplificar e otimizar esse processo, a aplicação foi projetada como um facilitador essencial. Além da funcionalidade principal de cálculo de distância de pouso, o sistema também inclui um robusto gerenciamento de modelos de avião, permitindo que os usuários personalizem e armazenem informações específicas sobre aeronaves. Adicionalmente, um sistema de usuários foi implementado para rastrear e garantir o acesso controlado, tornando o Operational Landing Distance uma ferramenta indispensável para a segurança e eficiência das operações de pouso na aviação.
+</p>
+
+### Prévia da Solução
+<p align='justify'>
+Para solucionar o problema de cálculo, foi implementado no sistema uma interface simples e intuitiva para a inserção de dados, seleção do modelo de aeronave, e a apresentação do resultado de forma simples e clara, sem muita dificuldade para a visualização do resultado.
+</p>
+<p align='justify'>
+No sistema de gerenciamento dos modelos de aeronave, foi feito um modelo de cadastro onde deve-se inserir informações básicas de cada modelo e uma planilha em excel, seguindo um modelo proposto e que é usado pelo sistema para efetuar o cálculo de distância de pouso.
+</p>
+
+### Tecnologias utilizadas
+- Front-end <br />
+<p>
+<img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' />
+<img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' />
+<img src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white' />
+<img src='https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white' />
+</p>
+
+- Back-end / Armazenamento dos dados <br />
+<p>
+<img src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)' />
+<img src='https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB' />
+<img src='https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white' />
+</p>
+
+### Contribuições Pessoais
+<p align='justify'>
+  Contribui, ao logno do projeto, de forma diversificada. Contribuí tanto na construção das telas, interfaces da aplicação e seu desenvolvimento no front-end como auxiliei na implementação do back-end, contribuindo para a integração harmoniosa e eficaz de todas as partes do projeto.
+</p>
+
+### Lições Aprendidas
+<p align='justify'>
+  Nesta API, tive a oportunidade de aprofundar a área de front-end em minha carreira de desenvolvedor. Foi a minha primeira incursão na construção de uma aplicação seguindo o conceito de SPA (Single Page Application), o que ampliou significativamente meu repertório de habilidades juntantemente com os primeiros passos com o framework React, mergulhando em seu ecossistema dinâmico. Além disso, aprimorei minhas habilidades em UI/UX ao experimentar a ferramenta Figma, que me permitiu criar interfaces mais envolventes e intuitivas para os usuários.
+</p>
+
+<details>
+  <summary><h3>Hard Skills</h3></summary>
+  <br>
+  <table align='center'>
+    <tr>
+      <th width='300px'>Tecnologia/Metodologia</th>
+      <th width='300px'>Domínio</th>
+    </tr>
+    <tr>
+      <td>React/Typescript</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>CSS</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Figma</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>UX/UI</td>
+      <td>★★★★☆</td>
+    </tr>
+  </table>
+</details>
+
+<details>
+  <summary><h3>Soft Skills</h3></summary>
+  <br>
+  <table align='center'>
+    <tr>
+      <th width='300px'>Habilidades</th>
+      <th width='300px'>Domínio</th>
+    </tr>
+    <tr>
+      <td>Proatividade</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Trabalho em equipe</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Comunicação</td>
+      <td>★★★☆☆</td>
+    </tr>
+  </table>
+</details>
