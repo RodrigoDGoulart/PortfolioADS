@@ -13,7 +13,7 @@ Estagiário da <a href='https://www.linkedin.com/company/imagem-geo/'>Imagem Geo
 </p>
 
 <p align='justify'>
-Minha trajetória profissional ganhou impulso quando ingressei como estagiário Desenvolvedor na Imagem Geosistemas em Setembro de 2022. Essa oportunidade me permitiu aplicar minhas habilidades em um ambiente de trabalho prático, além de ter a oportunidade de conhecer, estudar e desenvolver em uma área de conhecimento nova em minha carreria: Tecnologia GIS, unificando aprendizados em aplicações web e conceitos GIS. Minha capacidade de unir conhecimentos técnicos e visão de design me diferencia e estou ansioso para continuar crescendo e contribuindo no mundo do desenvolvimento e design.
+Minha trajetória profissional ganhou impulso quando ingressei como estagiário Desenvolvedor na <a href='https://www.linkedin.com/company/imagem-geo/'>Imagem Geosistemas</a> em Setembro de 2022. Essa oportunidade me permitiu aplicar minhas habilidades em um ambiente de trabalho prático, além de ter a oportunidade de conhecer, estudar e desenvolver em uma área de conhecimento nova em minha carreria: Tecnologia GIS, unificando aprendizados em aplicações web e conceitos GIS. Minha capacidade de unir conhecimentos técnicos e visão de design me diferencia e estou ansioso para continuar crescendo e contribuindo no mundo do desenvolvimento e design.
 </p>
 <p align='center'>
 <a href='https://www.linkedin.com/in/rodrigo-diniz-goulart/'>LinkedIn</a> / <a href='https://github.com/RodrigoDGoulart'>GitHub</a>
