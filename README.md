@@ -20,7 +20,7 @@ Minha trajetória profissional ganhou impulso quando ingressei como estagiário 
 </p>
 
 # Meus Projetos
-### FATEC Projects
+## FATEC Projects
 #### 1° Semestre - 2/2021
 Parceiro acadêmico: <a href='https://www.linkedin.com/school/fatecjessenvidal/'>FATEC São José dos Campos - SP</a>
 ![Frame 1 (1)](https://github.com/RodrigoDGoulart/PortfolioADS/assets/90328897/735793c3-4a1f-485c-96d6-6f5e1277c95a)
@@ -126,7 +126,7 @@ Para a parte de organização e centralização dos projetos, foi feito uma inte
   </table>
 </details>
 
-### Pro4System
+## Pro4System
 #### 2° Semestre - 1/2022
 Parceiro acadêmico: <a href='https://www.linkedin.com/company/pro4tech/'>Pro4Tech</a>
 ![pro4system](https://github.com/RodrigoDGoulart/PortfolioADS/assets/90328897/86dc0865-9262-41b0-b5e3-df9ed8999561)
@@ -223,7 +223,7 @@ Além do sistema de pedidos de cliente, também foi implementado um sistema de c
   </table>
 </details>
 
-### Embraer - Operational Landing Distance
+## Embraer - Operational Landing Distance
 #### 3° Semestre - 2/2022
 Parceiro acadêmico: <a href='https://www.linkedin.com/company/embraer/'>Embraer</a>
 ![embraer](https://github.com/RodrigoDGoulart/PortfolioADS/assets/90328897/eea3fa51-6531-4aa2-a4d7-c1ef6924f131)
@@ -316,7 +316,7 @@ No sistema de gerenciamento dos modelos de aeronave, foi feito um modelo de cada
   </table>
 </details>
 
-### IONIC Deploy Manager
+## IONIC Deploy Manager
 #### 4° Semestre - 1/2023
 Parceiro acadêmico: <a href='https://www.linkedin.com/company/ionichealth/'>IONIC Health</a>
 ![ionic deploy manager](https://github.com/RodrigoDGoulart/PortfolioADS/assets/90328897/9ccc9e9b-6fb3-4efc-a1e9-d53a0d966c71)
