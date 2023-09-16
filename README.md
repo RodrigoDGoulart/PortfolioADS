@@ -315,3 +315,105 @@ No sistema de gerenciamento dos modelos de aeronave, foi feito um modelo de cada
     </tr>
   </table>
 </details>
+
+### IONIC Deploy Manager
+#### 4° Semestre - 1/2023
+Parceiro acadêmico: <a href='https://www.linkedin.com/company/ionichealth/'>IONIC Health</a>
+![ionic deploy manager](https://github.com/RodrigoDGoulart/PortfolioADS/assets/90328897/9ccc9e9b-6fb3-4efc-a1e9-d53a0d966c71)
+
+<p align='justify'>
+O <a href='https://github.com/meta-build/Projeto-IONIC-Health'>IONIC Deploy Manager</a> surgiu como resposta a uma necessidade na empresa IONIC Health. Este projeto foi concebido para simplificar e otimizar o gerenciamento de chamados da empresa. Através de uma aplicação web, ele permite uma abordagem mais organizada na criação de novos chamados, avaliação de solicitações e controle de produção de implementações e correções de erros em projetos, oferecendo um sistema eficiente para o acompanhamento e gerenciamento de todo o processo.
+</p>
+
+### Prévia da Solução
+<p align='justify'>
+Para solucionar o processo de criação e gerenciamento de chamados, foi feito um fluxo estruturado do chamado em três etapas cruciais. Inicialmente, o chamado é submetido e entra na fase de revisão/atualização, onde detalhes e informações são refinados e aprimorados. Em seguida, passa para a etapa de avaliação, onde é cuidadosamente analisado para determinar prioridades e complexidades. Por fim, durante a fase de produção, o chamado é acompanhado por meio de três status: "new" para início, "on holding" para aguardar ações específicas e, finalmente, "done" quando todas as etapas são concluídas com sucesso, oferecendo uma abordagem abrangente e organizada para o gerenciamento de solicitações e melhorias nos projetos da empresa.
+</p>
+<p align='justify'>
+Para garantir segurança e melhor organização quanto ao gerenciamento de chamados, o projeto possui uma funcionalidade altamente flexível e personalizável no que diz respeito ao sistema de permissões e grupos de usuários. Os administradores podem criar permissões customizadas para grupos de usuários ou para usuários individuais, garantindo que a interface se adapte de acordo com as permissões atribuídas. Essas permissões abrangem diversas áreas cruciais, incluindo o sistema de chamados, permitindo o controle sobre a criação, edição, arquivamento, avaliação e alteração do status de produção de chamados. Além disso, o sistema estende-se ao gerenciamento de usuários e grupos, oferecendo a capacidade de criar, editar e excluir contas de usuário e grupos, garantindo um controle granular sobre o acesso e a segurança dos recursos do sistema. Essa flexibilidade permite que as empresas personalizem o uso da aplicação de acordo com suas necessidades específicas e estrutura organizacional.
+</p>
+
+### Tecnologias utilizadas
+- Front-end <br />
+<p>
+<img src='https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB' />
+<img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' />
+<img src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white' />
+
+</p>
+
+- Back-end / Armazenamento dos dados <br />
+<p>
+<img src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)' />
+<img src='https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB' />
+<img src='https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white' />
+<img src='https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white' />
+</p>
+
+### Contribuições Pessoais
+<p align='justify'>
+  Neste projeto desempenhei o papel como Scrum-master, auxiliando toda equipe durante o desenvolvimento e também liderando o desenvolvimento front-end, cuidando do design da interface, responsividade e animação das telas. Além desses dois papéis, também auxiliei a equipe ensinando boas práticas de desenvolvimento em conjunto e no desenvolvimento front-end com React/Typescript.
+</p>
+
+### Lições Aprendidas
+<p align='justify'>
+  Este projeto representou um marco em minha carreira, pois marcou minha primeira experiência significativa como líder de equipe. Ao longo do processo, aprendi valiosas lições sobre o gerenciamento de equipes e projetos, aprimorando minhas habilidades de administração e coordenação. Além disso, minha proficiência em planejamento e design, utilizando o Figma, e em desenvolvimento, com React/Typescript, evoluiu consideravelmente. Essa jornada resultou em um projeto mais organizado, com a implementação de novas tecnologias e uma interface notavelmente mais agradável e profissional. Essas lições e conquistas certamente contribuíram para o meu crescimento profissional e aprimoraram minha capacidade de liderar e entregar projetos de alta qualidade.
+</p>
+
+<details>
+  <summary><h3>Hard Skills</h3></summary>
+  <br>
+  <table align='center'>
+    <tr>
+      <th width='300px'>Tecnologia/Metodologia</th>
+      <th width='300px'>Domínio</th>
+    </tr>
+    <tr>
+      <td>React/Typescript</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Sass</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Figma</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+      <td>UX/UI</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+        <td>SCRUM</td>
+      <td>★★★☆☆</td>
+    </tr>
+  </table>
+</details>
+
+<details>
+  <summary><h3>Soft Skills</h3></summary>
+  <br>
+  <table align='center'>
+    <tr>
+      <th width='300px'>Habilidades</th>
+      <th width='300px'>Domínio</th>
+    </tr>
+    <tr>
+      <td>Proatividade</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Liderança</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Comunicação</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+      <td>Empatia/Trabalho em equipe</td>
+      <td>★★★☆☆</td>
+    </tr>
+  </table>
+</details>
