@@ -105,23 +105,43 @@ Como responsável pela parte das interfaces do projeto, contribuí com a criaç�
   <table align='center'>
     <tr>
       <th width='300px'>Habilidade</th>
-      <th width='300px'>Domínio</th>
+      <th width='300px'>Exemplos neste projeto</th>
     </tr>
     <tr>
       <td>Proatividade</td>
-      <td>★★☆☆☆</td>
+      <td>
+        <ul>
+          <li>Sugestão de ideias em implementações ao projeto</li>
+          <li>Participação ativa no desenvolvimento</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>Trabalho em equipe</td>
-      <td>★★★☆☆</td>
+        <td>
+        <ul>
+          <li>Auxílio no estudo de novas tecnologias</li>
+          <li>Contribuição no planejamento do projeto</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>Comunicação</td>
-      <td>★★★☆☆</td>
+      <td>
+        <ul>
+          <li>Feedbacks aos colegas de equipe</li>
+          <li>Alinhamento na passagem de tarefas secundárias aos outros integrantes para conclusão das tarefas</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>Organização/Planejamento</td>
-      <td>★★☆☆☆</td>
+      <td>
+        <ul>
+          <li>Contribuição na apresentação de sprints</li>
+          <li>Participação em reuniões da equipe para planejamento da entrega seguinte</li>
+        </ul>
+      </td>
     </tr>
   </table>
 </details>
@@ -202,23 +222,35 @@ Durante o desenvolvimento da API, exerci um papel central e multifacetado, abran
   <table align='center'>
     <tr>
       <th width='300px'>Habilidades</th>
-      <th width='300px'>Domínio</th>
+      <th width='300px'>Exemplos neste projeto</th>
     </tr>
     <tr>
       <td>Proatividade</td>
-      <td>★★★★☆</td>
+      <td>
+        <ul>
+          <li>Listagem de tarefas e requisitos ao projeto</li>
+          <li>Sugestão de ideias de implementação</li>
+          <li>Reconhecimento e correção de erros no software</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>Trabalho em equipe</td>
-      <td>★★★☆☆</td>
+      <td>
+        <ul>
+          <li>Auxílio aos colegas no estudo de novas tecnologias</li>
+          <li>Passagem de conhecimento das implementações no projeto</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>Comunicação</td>
-      <td>★★★☆☆</td>
-    </tr>
-    <tr>
-      <td>Empatia/Ensino</td>
-      <td>★★★☆☆</td>
+      <td>
+        <ul>
+          <li>Feedback aos colegas de equipe</li>
+          <li>Delegação de tarefas do projeto no planejamento da sprint</li>
+        </ul>
+      </td>
     </tr>
   </table>
 </details>
@@ -299,19 +331,35 @@ Ao longo do projeto, desempenhei uma contribuição diversificada, atuando tanto
   <table align='center'>
     <tr>
       <th width='300px'>Habilidades</th>
-      <th width='300px'>Domínio</th>
+      <th width='300px'>Exemplos neste projeto</th>
     </tr>
     <tr>
       <td>Proatividade</td>
-      <td>★★★★☆</td>
+      <td>
+        <ul>
+          <li>Levantamento de requisitos e tarefas do projeto</li>
+          <li>Inicializar planejamento das entregas e o projeto no geral</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>Trabalho em equipe</td>
-      <td>★★★★☆</td>
+      <td>
+        <ul>
+          <li>Feedback aos colegas de equipe</li>
+          <li>Delegação de tarefas</li>          
+          <li>Suporte aos colegas com dificuldades nas tarefas</li>          
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>Comunicação</td>
-      <td>★★★☆☆</td>
+      <td>
+        <ul>
+          <li>Participação nas reuniões de equipe</li>
+          <li>Suporte ativo na aceleração de tarefas em andamento</li>
+        </ul>
+      </td>
     </tr>
   </table>
 </details>
@@ -397,23 +445,44 @@ Para garantir segurança e melhor organização quanto ao gerenciamento de chama
   <table align='center'>
     <tr>
       <th width='300px'>Habilidades</th>
-      <th width='300px'>Domínio</th>
+      <th width='300px'>Exemplos neste projeto</th>
     </tr>
     <tr>
       <td>Proatividade</td>
-      <td>★★★★☆</td>
+      <td>
+        <ul>
+          <li>Listagem de requisitos do projeto</li>
+          <li>Montagem de documentações (backlog e documentação das sprints)</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>Liderança</td>
-      <td>★★★☆☆</td>
+      <td>
+        <ul>
+          <li>Delegação de tarefas</li>
+          <li>Estratégia de entregas</li>
+          <li>Acompanhamento e planejamento de produtividade da equipe</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>Comunicação</td>
-      <td>★★★★☆</td>
+      <td>
+        <ul>
+          <li>Feedback aos colegas de equipe</li>
+          <li>Apresentação das sprints</li>
+        </ul>
+      </td>
     </tr>
     <tr>
       <td>Empatia/Trabalho em equipe</td>
-      <td>★★★☆☆</td>
+      <td>
+        <ul>
+          <li>Suporte no estudo e ajuda à colegas com dificuldade de desenvolvimento</li>
+          <li>Auxílios em tarefas atrasadas</li>
+        </ul>
+      </td>
     </tr>
   </table>
 </details>
