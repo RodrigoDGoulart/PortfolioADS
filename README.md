@@ -26,18 +26,18 @@ Parceiro acadêmico: <a href='https://www.linkedin.com/school/fatecjessenvidal/'
 ![Frame 1 (1)](https://github.com/RodrigoDGoulart/PortfolioADS/assets/90328897/735793c3-4a1f-485c-96d6-6f5e1277c95a)
 
 <p align='justify'>
-<a href='https://github.com/meta-build/FATEC-Projects'>FATEC Projects</a> é um sistema que, automaticamente, salva os repositórios de APIs anteriores da faculdade FATEC e os disponibiliza através de uma interface web. A instituição possuía dificuldade em centralizar todos os projetos de turmas e semestres anteriores, tendo até a possibilidade de alguns repositórios não ficarem mais disponíveis ao público, uma vez que originalmente esses projetos estão no controle de cada dono do respectivo repositório.
+A <a href='https://github.com/meta-build/FATEC-Projects'>FATEC Projects</a> foi um projeto de um sistema que, de forma automática, salva os repositórios de APIs anteriores da faculdade FATEC e os disponibiliza através de uma interface web. A instituição possuía dificuldade em centralizar todos esses projetos de turmas e semestres anteriores, havendo o perigo de alguns repositórios não ficarem mais disponíveis ao público, uma vez que originalmente esses projetos estão no controle de cada dono do respectivo repositório.
 </p>
 <p align='justify'>
-Com isso, o projeto possui como objetivo automatizar o processo de backup dos repositórios dos projetos e a disponiblização destes com uma interface limpa e intuitiva em web.
+Com isso, o projeto possui como objetivo automatizar o processo de backup de repositórios de projetos anteriores da universidade e a disponiblização destes com uma interface web limpa e intuitiva.
 </p>
 
 ### Prévia da Solução
 <p align='justify'>
-Para solucionar o problema de possível desaparecimento de projetos e descentralização das APIs anteriores, foi feito um script em Python aliado ao Selenium automatizando o processo de fork dos repositórios originais para uma conta do github destinado à faculdade. Com isso, por mais que o repositório original seja excluído, ainda existirá uma cópia de segurança na conta recém criada. 
+Para solucionar o problema do possível desaparecimento de projetos e descentralização das APIs anteriores, foi feito um script em Python aliado ao Selenium que automatiza o processo de fork dos repositórios originais para uma conta do GitHub destinado à faculdade (ou seja, a cópia desses repositórios para outra conta do github). Com isso, por mais que o repositório original seja excluído, ainda existirá uma cópia de segurança na conta recém criada. 
 </p>
 <p align='justify'>
-Para a parte de organização e centralização dos projetos, foi feito uma interface simples e intuitiva, dividindo todos os projetos primeiro em Semestre/Ano, Curso, Turma (Caso tenha mais de uma turma no mesmo semestre e curso), Semestre e Equipe. Em seguida, é apresentado os repositórios onde, clicando em seu respectivo ícone, é redirecionado ao repositório na qual foi feito o fork na conta github da faculdde.   
+Para a parte de organização e centralização dos projetos, foi feito uma interface simples e intuitiva, catalogando todos os projetos em Semestre/Ano, Curso, Turma (Caso tenha mais de uma turma no mesmo semestre e curso), Semestre da turma e Equipe. Em seguida, é apresentado os repositórios onde, clicando em seu respectivo ícone, é redirecionado ao repositório na qual foi feito o fork na conta GitHub da faculdade.   
 </p>
 
 ### Tecnologias utilizadas
@@ -65,7 +65,7 @@ Como responsável pela parte das interfaces do projeto, contribuí com a criaç�
 
 ### Lições Aprendidas
 <p align='justify'>
-  Este foi o primeiro projeto onde tive o primeiro contato com programação, além de métodos de organização e gerenciamento de equipe com a metodologia SCRUM. Além desses dois fatos, também desenvolvi habilidades de trabalho e comunicação em equipe, além das oportunidades de aprendizados em novas tecnologias e repassar esses ensinamentos aos colegas do grupo.
+  Este foi o primeiro projeto onde tive o primeiro contato com programação aliado com métodos de organização e gerenciamento de equipe com a metodologia SCRUM. Além desses dois fatos, também desenvolvi habilidades de trabalho e comunicação em equipe, além das oportunidades de aprendizados em novas tecnologias e repassar esses ensinamentos aos colegas do grupo.
 </p>
 
 <details>
@@ -155,15 +155,15 @@ Parceiro acadêmico: <a href='https://www.linkedin.com/company/pro4tech/'>Pro4Te
 <a href='https://github.com/meta-build/Pro4System/'>Pro4System</a> foi um sistema desktop com a funcionalidade de gerenciamento de projetos, clientes e funcionários de uma empresa de tecnologia. A empresa apresentou o problema da comunicação entre funcionário e clientes e o gerenciamento de projetos em andamento.
 </p>
 <p align='justify'>
-Dado a dor do cliente, o sistema possui o objetivo de melhorar a comunicação entre funcionário x cliente, além de apresentar uma interface que facilite a organização dos projetos e o andamento de suas atividades.
+Dado a dor do cliente, o sistema possui o objetivo de melhorar a comunicação entre funcionário e cliente, além de apresentar uma interface que facilite a organização dos projetos e o andamento de suas atividades.
 </p>
 
 ### Prévia da Solução
 <p align='justify'>
-Focando no problema de gerenciamento de projetos, foi montado um sistema desktop com interface e funcionamento em Java, apresentando os projetos, pedidos dos clientes e gerenciamento de funcionários. Para o armazenamento desses dados, foi usado o banco de dados MySQL. 
+Focando no problema de gerenciamento de projetos, foi montado um sistema desktop com interface e funcionamento em Java. Essa interface apresenta os projetos, pedidos de clientes e gerenciamento de usuários (clientes e funcionários). Para o armazenamento desses dados, foi usado o banco de dados relacional MySQL. 
 </p>
 <p align='justify'>
-Além do sistema de pedidos de cliente, também foi implementado um sistema de chat. Nesse caso, foi necessário implementar um servidor à parte, em NodeJs + SocketIO, conseguindo implementar um sistema de chat ao vivo, além de ser possível visualizar se o usuário entrou no sistema ou não.
+Além do sistema de pedidos de cliente, também foi implementado um sistema de chat. Nesse caso, foi necessário implementar um servidor à parte, em NodeJs + SocketIO. Com esse servidor, foi possível implementar um sistema de chat ao vivo e visualizar se o usuário está online no sistema.
 </p>
 
 ### Tecnologias utilizadas
@@ -181,12 +181,12 @@ Além do sistema de pedidos de cliente, também foi implementado um sistema de c
 
 ### Contribuições Pessoais
 <p align='justify'>
-Durante o desenvolvimento da API, exerci um papel central e multifacetado, abrangendo desde a construção otimizada do banco de dados, para se alinhar às intricadas regras de negócio do projeto, até a criação e desenvolvimento das interfaces. Outra funcionalidade que contribuí em sua implementação foi o chat em tempo real entre usuários, integrando o software com um servidor NodeJs aliado a biblioteca SocketIO. Junto com a contribuição técnica, também auxiliei os colegas da equipe durante o desenvolvimento e estudo de novas tecnologias para implementação ao projeto. 
+Durante o desenvolvimento da API, exerci um papel central e multifacetado, abrangendo desde a construção otimizada do banco de dados, para se alinhar às regras de negócio do projeto, até a criação e desenvolvimento das interfaces. Outra funcionalidade que contribuí em sua implementação foi o chat em tempo real entre usuários, integrando o software com um servidor NodeJs aliado a biblioteca SocketIO. Junto com a contribuição técnica, também auxiliei os colegas da equipe durante o desenvolvimento e estudo de novas tecnologias para implementação ao projeto. 
 </p>
 
 ### Lições Aprendidas
 <p align='justify'>
-  Na finalização do projeto, foi adquirido uma série de habilidades e experiências valiosas. Aprimorei significativamente minha capacidade de comunicação com a equipe, aprendi a tomar iniciativa de forma proativa durante o desenvolvimento e desenvolvi empatia ao compartilhar conhecimento com meus colegas. Além disso, do ponto de vista técnico, esse projeto marcou meu primeiro contato com programação orientada a objetos, proporcionando uma base sólida em conceitos cruciais, como herança, polimorfismo e muito mais. Essa experiência ampliou minha bagagem profissional e me preparou para enfrentar desafios futuros com confiança e conhecimento.
+  Na finalização do projeto, foi adquirido uma série de habilidades e experiências valiosas. Aprimorei significativamente minha capacidade de comunicação com a equipe, aprendi a tomar iniciativa de forma proativa durante o desenvolvimento e desenvolvi empatia ao compartilhar conhecimento com meus colegas. Além disso, do ponto de vista técnico, esse projeto marcou meu primeiro contato com programação orientada a objetos, proporcionando uma base sólida em conceitos cruciais, como herança e polimorfismo. Essa experiência ampliou minha bagagem profissional e me preparou para enfrentar desafios futuros com confiança e conhecimento.
 </p>
 
 <details>
@@ -261,7 +261,7 @@ Parceiro acadêmico: <a href='https://www.linkedin.com/company/embraer/'>Embraer
 ![embraer](https://github.com/RodrigoDGoulart/PortfolioADS/assets/90328897/eea3fa51-6531-4aa2-a4d7-c1ef6924f131)
 
 <p align='justify'>
-<a href='https://github.com/meta-build/Projeto-Embraer'>Embraer Operational Landing Distance</a> foi uma aplicação web desenvolvida em resposta à necessidade crítica na aviação. A empresa identificou a dificuldade enfrentada pelos pilotos ao realizar cálculos complexos de distância de pouso em diferentes cenários de voo. Para simplificar e otimizar esse processo, a aplicação foi projetada como um facilitador essencial. Além da funcionalidade principal de cálculo de distância de pouso, o sistema também inclui um robusto gerenciamento de modelos de avião, permitindo que os usuários personalizem e armazenem informações específicas sobre aeronaves. Adicionalmente, um sistema de usuários foi implementado para rastrear e garantir o acesso controlado, tornando o Operational Landing Distance uma ferramenta indispensável para a segurança e eficiência das operações de pouso na aviação.
+<a href='https://github.com/meta-build/Projeto-Embraer'>Embraer Operational Landing Distance</a> foi uma aplicação web desenvolvida em resposta à necessidade crítica na área da aviação na empresa. Ela identificou a dificuldade enfrentada pelos pilotos ao realizar cálculos complexos de distância de pouso em diferentes cenários de voo. Para simplificar e otimizar esse processo, a aplicação foi projetada como um facilitador essencial. Além da funcionalidade principal de cálculo de distância de pouso, o sistema também inclui um robusto gerenciamento de modelos de avião, permitindo que os usuários personalizem e armazenem informações específicas sobre aeronaves. Adicionalmente, um sistema de usuários foi implementado para rastrear e garantir o acesso controlado, tornando o Operational Landing Distance uma ferramenta indispensável para a segurança e eficiência das operações de pouso na aviação.
 </p>
 
 ### Prévia da Solução
@@ -269,7 +269,7 @@ Parceiro acadêmico: <a href='https://www.linkedin.com/company/embraer/'>Embraer
 Para solucionar o problema de cálculo, foi implementado no sistema uma interface simples e intuitiva para a inserção de dados, seleção do modelo de aeronave, e a apresentação do resultado de forma simples e clara, sem muita dificuldade para a visualização do resultado.
 </p>
 <p align='justify'>
-No sistema de gerenciamento dos modelos de aeronave, foi feito um modelo de cadastro onde deve-se inserir informações básicas de cada modelo e uma planilha em excel, seguindo um modelo proposto e que é usado pelo sistema para efetuar o cálculo de distância de pouso.
+No sistema de gerenciamento dos modelos de aeronave, foi feito um modelo de cadastro onde deve-se inserir informações básicas de cada modelo e uma planilha em Excel, seguindo um modelo proposto e que é usado pelo sistema para efetuar o cálculo de distância de pouso.
 </p>
 
 ### Tecnologias utilizadas
@@ -290,12 +290,12 @@ No sistema de gerenciamento dos modelos de aeronave, foi feito um modelo de cada
 
 ### Contribuições Pessoais
 <p align='justify'>
-Ao longo do projeto, desempenhei uma contribuição diversificada, atuando tanto na construção das interfaces e no desenvolvimento do front-end da aplicação quanto no apoio ao back-end. No front-end, contribuí na criação e refinamento das interfaces, garantindo telas intuitivas, fácil usabilidade e responsiva para telas de tablet e celular, cobrindo um dos requisitos apresentados no projeto. Nos bastidores, minha atuação no back-end foi marcada pela construção da lógica do cálculo de distância de pouso e a seleção da aeronave a partir de uma pré-registrada como uma variável na fórmula ao cálculo utilizado. Toda a lógica foi aplicada em um servidor NodeJs, sendo possível integrar o servidor ao front-end.
+Ao longo do projeto, desempenhei uma contribuição diversificada, atuando tanto na construção das interfaces e no desenvolvimento do front-end da aplicação quanto no apoio ao back-end. No front-end, contribuí na criação e refinamento das interfaces, garantindo telas intuitivas, fácil usabilidade e responsiva para telas de tablet e celular, cobrindo um dos requisitos apresentados no projeto. Nos bastidores, minha atuação no back-end foi marcada pela construção da lógica do cálculo de distância de pouso e a seleção de uma aeronave, já registrada anteriormente, como uma variável na fórmula ao cálculo utilizado. Toda a lógica foi aplicada em um servidor NodeJs, sendo possível integrar o servidor ao front-end.
 </p>
 
 ### Lições Aprendidas
 <p align='justify'>
-  Nesta API, tive a oportunidade de aprofundar a área de front-end em minha carreira de desenvolvedor. Foi a minha primeira incursão na construção de uma aplicação seguindo o conceito de SPA (Single Page Application), o que ampliou significativamente meu repertório de habilidades juntantemente com os primeiros passos com o framework React, mergulhando em seu ecossistema dinâmico. Além disso, aprimorei minhas habilidades em UI/UX ao experimentar a ferramenta Figma, que me permitiu criar interfaces mais envolventes e intuitivas para os usuários.
+  Nesta API, tive a oportunidade de aprofundar a área de front-end em minha carreira de desenvolvedor. Foi a minha primeira incursão na construção de uma aplicação seguindo o conceito de SPA (Single Page Application), o que ampliou significativamente meu repertório de habilidades soamdo aos primeiros passos com o framework React, mergulhando em seu ecossistema dinâmico. Além disso, aprimorei minhas habilidades em UI/UX ao experimentar a ferramenta Figma, que me permitiu criar interfaces mais envolventes e intuitivas para os usuários.
 </p>
 
 <details>
@@ -400,7 +400,7 @@ Para garantir segurança e melhor organização quanto ao gerenciamento de chama
 
 ### Contribuições Pessoais
 <p align='justify'>
-  Neste projeto desempenhei o papel como Scrum-master, auxiliando toda equipe durante o desenvolvimento e também liderando o desenvolvimento front-end, cuidando do design da interface, responsividade e animação das telas. Além desses dois papéis, também auxiliei a equipe ensinando boas práticas de desenvolvimento em conjunto e no desenvolvimento front-end com React/Typescript.
+  Neste projeto desempenhei o papel como Scrum-master, auxiliando toda equipe durante o desenvolvimento e liderando o desenvolvimento front-end, cuidando do design da interface, responsividade e animação das telas. Somado à esses dois papéis, também auxiliei a equipe ensinando boas práticas de desenvolvimento em conjunto e no desenvolvimento front-end com React/Typescript.
 </p>
 
 ### Lições Aprendidas
