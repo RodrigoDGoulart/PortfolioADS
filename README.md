@@ -486,3 +486,111 @@ Para garantir segurança e melhor organização quanto ao gerenciamento de chama
     </tr>
   </table>
 </details>
+
+## FCManager
+#### 5° Semestre - 2/2023
+Parceiro acadêmico: <a href='https://www.linkedin.com/company/imagem-geo'>Imagem Geosistemas</a>
+![fcmanager](https://github.com/RodrigoDGoulart/PortfolioADS/assets/90328897/b1f031ba-a0fe-4a86-8c9a-6f2fa45e5361)
+
+<p align='justify'>
+O <a href=''>FCManager</a> é um aplicativo inovador para celular, projetado para otimizar o gerenciamento de equipamentos utilizados em trabalhos de campo, abrangendo diversas áreas como consertos de encanamento e eletricidade. O sistema incorpora uma sofisticada estrutura de permissões de usuário, garantindo o acesso controlado às funcionalidades específicas do aplicativo. Além do gerenciamento de equipamento, o sistema também conta com um gerenciamento de manobras e atividades em campo, indicando o uso dos equipamentos e usuários envolvidos. Além disso, o aplicativo oferece um sistema de localização integrado, rastreando tanto as manobras em andamento quanto a localização dos equipamentos. A segurança dos dados da empresa é prioritária, sendo garantida por um robusto sistema de autenticação no aplicativo, assegurando a integridade e confidencialidade das informações em todas as interações.
+</p>
+
+### Prévia da Solução
+<p align='justify'>
+A funcionalidade de gerenciamento de equipamentos no FCManager oferece uma abordagem abrangente e eficaz para o controle de ativos em trabalhos de campo. Os usuários podem facilmente listar, criar e editar equipamentos, cada um detalhadamente catalogado com informações cruciais, incluindo tipo, número de serial, localização precisa através de coordenadas de latitude e longitude, status (ativo ou inativo) e descrição. A listagem de equipamentos é aprimorada por filtros intuitivos, permitindo pesquisas específicas por tipo, status e até mesmo estabelecendo uma distância máxima entre o equipamento e a localização do usuário. A funcionalidade de mapeamento integrada eleva ainda mais a experiência, permitindo que os usuários localizem visualmente os equipamentos no mapa do aplicativo, proporcionando um controle completo e eficiente dos ativos em campo.
+</p>
+<p align='justify'>
+Além do gerenciamento de equipamentos, implementamos um sistema de gestão de manobras, compartilhando funcionalidades como a visualização no mapa e filtros de distância. Cada manobra é detalhadamente catalogada com informações essenciais, incluindo título, descrição, usuário responsável, data e hora de início, conclusão, localização precisa e lista de equipamentos utilizados. Durante o cadastro, o sistema captura automaticamente o usuário e a data/hora de início, com a adição manual das demais informações. Equipamentos ativos são exclusivos para manobras, marcados como inativos após o registro. Cada usuário pode cadastrar até 10 manobras simultâneas, sendo informado constantemente do status. A conclusão é restrita ao criador, atualizando automaticamente data/hora e status dos equipamentos para "ativo", garantindo uma gestão eficaz e em tempo real das operações em campo.
+</p>
+<p align='justify'>
+O sistema de usuários no FCManager proporciona uma gestão flexível e segura, diferenciando entre usuários comuns e administradores. A criação e edição de contas são exclusivas para administradores, que no cadastro fornecem informações essenciais como nome, sobrenome, CPF, número de matrícula, email, telefone e atribuição de administrador. Edições posteriores contemplam mudanças limitadas, como nome, sobrenome, email, telefone e status de administrador. A senha padrão, automaticamente definida como CPF, garante a segurança inicial. Usuários têm controle sobre foto de perfil, nome, sobrenome, email e telefone, além de alterar senhas, exigindo a confirmação da atual. O sistema de autenticação mantém a conveniência, solicitando senha ao retomar o aplicativo, com flexibilidade para troca de contas quando necessário.
+</p>
+
+### Tecnologias utilizadas
+- Front-end <br />
+<p>
+  <img src='https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
+  <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' />
+</p>
+
+- Back-end / Armazenamento dos dados <br />
+<p>
+  <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' />
+  <img src='https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' />
+  <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' />
+</p>
+
+### Contribuições Pessoais
+<p align='justify'>
+No decorrer do projeto, desempenhei o papel fundamental de scrum-master, liderando o planejamento desde a construção do backlog até a documentação das entregas nas sprints, além de monitorar o desempenho do grupo por meio de gráficos burndown e relatórios de dailys. Além da gestão ágil, fui responsável pelo desenvolvimento das interfaces da aplicação, utilizando o Figma para garantir uma experiência de usuário envolvente. Participei ativamente do projeto, desde a codificação do aplicativo até o auxílio aos colegas na instalação e desenvolvimento do mesmo. Minha contribuição não se limitou ao front-end, estendendo-se ao backend, onde ofereci suporte essencial para garantir a harmonia e eficácia de todas as partes do projeto.
+</p>
+
+### Lições Aprendidas
+<p align='justify'>
+Este projeto representou minha estreia no desenvolvimento de aplicativos para celular, marcando meu primeiro contato com o React Native e a exploração do banco de dados não relacional MongoDB. Como scrum-master, aprimorei minhas habilidades de gerenciamento de projetos, implementando estratégias eficazes desde o planejamento até o acompanhamento detalhado do desempenho da equipe. Esta experiência não apenas ampliou meu conjunto de habilidades técnicas, mas também destacou a importância da comunicação efetiva e do acompanhamento próximo da equipe para otimizar o progresso do projeto.
+</p>
+
+<details>
+  <summary><h3>Hard Skills</h3></summary>
+  <br>
+  <table align='center'>
+    <tr>
+      <th width='300px'>Tecnologia/Metodologia</th>
+      <th width='300px'>Domínio</th>
+    </tr>
+    <tr>
+      <td>React Native</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>UX/UI</td>
+      <td>★★★★☆</td>
+    </tr>
+    <tr>
+        <td>SCRUM</td>
+      <td>★★★★☆</td>
+    </tr>
+  </table>
+</details>
+
+<details>
+  <summary><h3>Soft Skills</h3></summary>
+  <br>
+  <table align='center'>
+    <tr>
+      <th width='300px'>Habilidades</th>
+      <th width='300px'>Exemplos neste projeto</th>
+    </tr>
+    <tr>
+      <td>Liderança</td>
+      <td>
+        <ul>
+          <li>Gerenciamento do projeto</li>
+          <li>Delegação de tarefas</li>
+          <li>Estratégia de entregas</li>
+          <li>Inclusão e aplicação de dailys</li>
+          <li>Acompanhamento da produtividade da equipe</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Comunicação</td>
+      <td>
+        <ul>
+          <li>Feedback aos colegas de equipe</li>
+          <li>Apresentação das sprints</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Empatia/Trabalho em equipe</td>
+      <td>
+        <ul>
+          <li>Suporte no estudo e ajuda à colegas com dificuldade de desenvolvimento</li>
+          <li>Auxílios em tarefas atrasadas</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</details>
