@@ -60,7 +60,7 @@ Para a parte de organização e centralização dos projetos, foi feito uma inte
 
 ### Contribuições Pessoais
 <p align='justify'>
-  Neste projeto atuei como desenvolvedor front-end. Cuidando e administrando a parte das interfaces do projeto além do desenvolvimento em HTML/CSS. Além da função, também foi contribuído com estudos e auxílios no desenvolvimento da raspagem de links e automações de processos no projeto.
+Como responsável pela parte das interfaces do projeto, contribuí com a criação, aprimoração e desenvolvimento das telas da aplicação em HTML/CSS ao longo das sprints. Além do desenvolvimento front-end do projeto, desempenhei um papel crucial na implementação da raspagem de dados em Python, utilizando bibliotecas como BeautifulSoup e Selenium. Essa abordagem não apenas otimizou a coleta de dados relevantes, mas também fortaleceu a eficácia global da aplicação. Minha contribuição não se limitou apenas às responsabilidades técnicas, mas também envolveu o compartilhamento de conhecimento e auxílio na capacitação da equipe para superar desafios técnicos, resultando em um projeto bem-sucedido e integrado.
 </p>
 
 ### Lições Aprendidas
@@ -161,7 +161,7 @@ Além do sistema de pedidos de cliente, também foi implementado um sistema de c
 
 ### Contribuições Pessoais
 <p align='justify'>
-  Ao longo da API, desempenhei um papel multifacetado e essencial, abrangendo tanto a interface quanto a integração com o banco de dados, ao mesmo tempo em que fornecia suporte aos colegas no entendimento do projeto e na programação do sistema. Além disso, contribuí significativamente desenvolvendo o servidor para o sistema de chat, assegurando uma comunicação efetiva entre cliente x funcionário. 
+Durante o desenvolvimento da API, exerci um papel central e multifacetado, abrangendo desde a construção otimizada do banco de dados, para se alinhar às intricadas regras de negócio do projeto, até a criação e desenvolvimento das interfaces. Outra funcionalidade que contribuí em sua implementação foi o chat em tempo real entre usuários, integrando o software com um servidor NodeJs aliado a biblioteca SocketIO. Junto com a contribuição técnica, também auxiliei os colegas da equipe durante o desenvolvimento e estudo de novas tecnologias para implementação ao projeto. 
 </p>
 
 ### Lições Aprendidas
@@ -258,7 +258,7 @@ No sistema de gerenciamento dos modelos de aeronave, foi feito um modelo de cada
 
 ### Contribuições Pessoais
 <p align='justify'>
-  Contribui, ao logno do projeto, de forma diversificada. Contribuí tanto na construção das telas, interfaces da aplicação e seu desenvolvimento no front-end como auxiliei na implementação do back-end, contribuindo para a integração harmoniosa e eficaz de todas as partes do projeto.
+Ao longo do projeto, desempenhei uma contribuição diversificada, atuando tanto na construção das interfaces e no desenvolvimento do front-end da aplicação quanto no apoio ao back-end. No front-end, contribuí na criação e refinamento das interfaces, garantindo telas intuitivas, fácil usabilidade e responsiva para telas de tablet e celular, cobrindo um dos requisitos apresentados no projeto. Nos bastidores, minha atuação no back-end foi marcada pela construção da lógica do cálculo de distância de pouso e a seleção da aeronave a partir de uma pré-registrada como uma variável na fórmula ao cálculo utilizado. Toda a lógica foi aplicada em um servidor NodeJs, sendo possível integrar o servidor ao front-end.
 </p>
 
 ### Lições Aprendidas
