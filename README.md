@@ -1,6 +1,6 @@
 # Portfólio de Projetos ADS - Rodrigo Goulart
 <p align='justify'>
-Portfólio de projetos apresentado como requisito avaliativo para a disciplina de Trabalho de Graduação do curso de Análise e Desenvolvimento de Sistemas da FATEC São José dos Campos - SP, sob a orientação do Prof. Fernando Masanori, representa uma compilação abrangente de projetos integrados por aprendizado (API - Aprendizagem por Projeto Integrado) desenvolvidos ao longo do curso, sendo 1 projeto por semestre. O projeto se resume na resolução de um problema de determinada empresa usando tecnologias e aprendizados no semestre atual, além de todo conhecimento e aprendizado desenvolvimento com o andamento do curso. 
+Portfólio de projetos apresentado como requisito avaliativo para a disciplina de Trabalho de Graduação do curso de Análise e Desenvolvimento de Sistemas da FATEC São José dos Campos - SP, sob a orientação do <a href='https://www.linkedin.com/in/fmasanori/'>Prof. Fernando Masanori</a>, representa uma compilação abrangente de projetos integrados por aprendizado (API - Aprendizagem por Projeto Integrado) desenvolvidos ao longo do curso, sendo 1 projeto por semestre. O projeto se resume na resolução de um problema de determinada empresa usando tecnologias e aprendizados no semestre atual, além de todo conhecimento e aprendizado desenvolvimento com o andamento do curso. 
 </p>
 
 # Sobre mim
