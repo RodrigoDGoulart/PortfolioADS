@@ -544,6 +544,10 @@ Este projeto representou minha estreia no desenvolvimento de aplicativos para ce
       <td>★★★☆☆</td>
     </tr>
     <tr>
+      <td>MongoDB</td>
+      <td>★★☆☆☆</td>
+    </tr>
+    <tr>
       <td>UX/UI</td>
       <td>★★★★☆</td>
     </tr>
