@@ -598,3 +598,123 @@ Este projeto representou minha estreia no desenvolvimento de aplicativos para ce
     </tr>
   </table>
 </details>
+
+## Projeto IA
+#### 6° Semestre - 1/2024
+Parceiro acadêmico: <a href='https://www.linkedin.com/company/flyaltave/'>ALTAVE</a>
+![projeto-ia-portfolio-src](https://github.com/RodrigoDGoulart/PortfolioADS/assets/90328897/906834ce-650d-4412-85aa-81461b5dae10)
+
+<p align='justify'>
+O <a href='https://github.com/CodeLabFatec/ProjetoIA'>Projeto IA</a> revoluciona o gerenciamento de redzones em navios e imóveis, utilizando inteligência artificial para automatizar o controle de entradas e saídas, garantindo operações seguras e eficientes. Com uma estrutura de permissões detalhada, o sistema permite que administradores, gerentes e seguranças acessem funções críticas de acordo com seus níveis de autorização. Integrando um sistema de localização preciso e um robusto sistema de autenticação, o Projeto IA assegura a integridade e confidencialidade dos dados, tornando-se uma ferramenta indispensável para o gerenciamento de áreas de alto risco.
+</p>
+
+### Prévia da Solução
+<p align='justify'>
+O Projeto IA introduz uma revolucionária IA de análise de vídeo baseada na biblioteca YOLO, que detecta movimentos e interações com caixas virtuais para registrar entradas e saídas nas redzones. Esta tecnologia permite um monitoramento preciso e em tempo real, assegurando que todas as movimentações sejam capturadas e analisadas automaticamente, otimizando a segurança e o controle de acesso.
+</p>
+<p align='justify'>
+Implementando a segurança de dados, o projetpo possui um sistema de usuários integrado que exige login para acessar a aplicação, com níveis de acesso diferenciados. Administradores têm controle total, incluindo o gerenciamento de usuários, enquanto gerentes e seguranças têm acesso restrito a áreas e redzones específicas, garantindo que cada usuário interaja apenas com as informações e funções pertinentes ao seu papel.
+</p>
+<p align='justify'>
+A aplicação web oferece um robusto gerenciamento de áreas e redzones, permitindo a administração das relações entre elas e a criação ou edição de novas zonas. Isso facilita a organização e a manutenção de um ambiente controlado, onde cada área e redzone são claramente definidas e gerenciadas de forma eficiente.
+</p>
+<p align='justify'>
+Melhorando a experiência do usuário e o gerenciamento de dados, o sistema também possui um painel dashboard intuitivo apresenta uma visão geral dos registros de entradas e saídas, com tabelas atualizadas, gráficos de frequência diária, e indicadores de atividade total e presença atual nas redzones. A interface também poussui filtros personalizáveis onde permitem que os usuários visualizem dados relevantes às suas permissões, assegurando que a informação seja acessível e útil para a tomada de decisões.
+</p>
+<p align='justify'>
+Complementando a aplicação, o projeto também inclui a funcionalidade de geração de relatórios no dashboard, oferecendo-os no formato PDF e Excel, incluindo um registro detalhado de entradas e saídas e análises gráficas semanais. Isso proporciona uma documentação abrangente e facilita a revisão de padrões e tendências, essencial para a gestão eficaz das redzones.
+</p>
+
+### Tecnologias utilizadas
+- Front-end <br />
+<p>
+  <img src='https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D' />
+  <img src='https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF' />
+  <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' />
+</p>
+
+- Back-end / Banco de dados / IA <br />
+<p>
+  <img src='https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white' />
+  <img src='https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white' />
+  <img src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white' />
+  <img src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white' />
+</p>
+
+### Contribuições Pessoais
+<p align='justify'>
+Minha atuação no Projeto IA foi fundamental, com foco especial no front-end, onde fui o principal arquiteto da interface do dashboard e da funcionalidade de geração do relatório geral. Além de implementar a base da aplicação conforme o design orientado pelo Product Owner, apliquei melhorias significativas para aprimorar a experiência do usuário. No âmbito das autenticações e permissões, garanti que as regras de negócio fossem seguidos, proporcionando um acesso seguro e confiável ao sistema. No back-end, desempenhei um papel crucial na atualização em tempo real dos dados do dashboard, o que exigiu atividades tanto no back-end quanto no front-end, sendo necessário atuar nas duas áreas. Minha contribuição foi além da programação e desenvolvimento. Ao longo do projeto, também ofereci suporte contínuo aos colegas de equipe e participei ativamente no planejamento estratégico do projeto, assegurando que mantivéssemos um progresso constante e alinhado com os objetivos estabelecidos.
+</p>
+
+### Lições Aprendidas
+<p align='justify'>
+Embora minha participação no Projeto IA não tenha envolvido o desenvolvimento direto da inteligência artificial, estive profundamente envolvido no planejamento e na compreensão de seu funcionamento, o que me proporcionou um valioso aprendizado sobre IA e análise de vídeo. No front-end, onde concentrei a maior parte do meu trabalho, tive a oportunidade de me aprofundar no framework Vue3 e na biblioteca Vuetify, explorando novas funcionalidades e aprimorando meu entendimento sobre o ecossistema Vue. No back-end, minha incursão foi igualmente enriquecedora, pois trabalhei com Spring, familiarizando-me com controllers, services e o mapeamento de entidades, além de aprofundar meus conhecimentos na lógica de programação com Java. Essa experiência multifacetada não só expandiu minha expertise técnica, mas também reforçou a importância da colaboração e do planejamento estratégico em projetos complexos.
+</p>
+
+<details>
+  <summary><h3>Hard Skills</h3></summary>
+  <br>
+  <table align='center'>
+    <tr>
+      <th width='300px'>Tecnologia/Metodologia</th>
+      <th width='300px'>Domínio</th>
+    </tr>
+    <tr>
+      <td>Vue3</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+      <td>Java/Spring</td>
+      <td>★★★☆☆</td>
+    </tr>
+    <tr>
+        <td>Inteligência Artifical</td>
+      <td>★★☆☆☆</td>
+    </tr>
+  </table>
+</details>
+
+<details>
+  <summary><h3>Soft Skills</h3></summary>
+  <br>
+  <table align='center'>
+    <tr>
+      <th width='300px'>Habilidades</th>
+      <th width='300px'>Exemplos neste projeto</th>
+    </tr>
+    <tr>
+      <td>Comunicação</td>
+      <td>
+        <ul>
+          <li>Feedback aos colegas de equipe</li>
+          <li>Planejamento/sugestões ao projeto</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Flexiblidade</td>
+      <td>
+        <ul>
+          <li>Adaptação em mudanças no projeto</li>
+          <li>Responsibilidade em tarefas de diferentes áreas</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Empatia/Trabalho em equipe</td>
+      <td>
+        <ul>
+          <li>Suporte no estudo e ajuda à colegas com dificuldade de desenvolvimento</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>Gestão do tempo</td>
+      <td>
+        <ul>
+          <li>Planejamento das tarefas para encaixarem dentro do tempo de cada sprint</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</details>
